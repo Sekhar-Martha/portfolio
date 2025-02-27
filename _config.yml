@@ -1,7 +1,14 @@
-# portfolio
-sekharmartha.github.io/portfolio
-title:Sekhar Martha
-#logo:"C:\Users\Sivakrishna\Downloads\sekhimg.jpeg"
-#description: text below image
-show_downloads:True
+title: "Sekhar Martha"
+logo: "sekhimg.jpeg" # Ensure this is correct
+description: "Python Developer"
+###
+
+show_downloads: true
+
+##
+##
 theme: jekyll-theme-minimal
+
+##
+##
+include: ["style.css"]
