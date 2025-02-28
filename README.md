@@ -149,7 +149,7 @@ Bapatla Engineering College
   
 
 ## Connect With Me  
--  [GitHub](https://github.com/Manmadha1)  
+-  [GitHub](https://github.com/Sekhar-Martha)  
 -  [LinkedIn](https://www.linkedin.com/in/Sekhar-Martha/)  
 -  [Medium](https://medium.com/@manmadharao.patibandla)  
 - **Email:** sekharmartha18@gmail.com  
