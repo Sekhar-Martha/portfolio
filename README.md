@@ -10,7 +10,7 @@
  [Download Resume](https://github.com/Manmadha1/ManmadharaoPatibandla.github.io-portfolio/blob/main/Manmadharao.Paribandla%20Resume.docx)
 
 ##  About Me  
-I am a **Python Developer** with **6+ years** of experience, having worked with top companies such as **Bnymellon, State of Florida, Berkshire Hathaway, and DXC Technology**. I'm expertise in backend development, **API design, cloud computing, and DevOps**. I specialize in building scalable applications using **Python frameworks like Django and Flask**, deploying applications on **AWS & GCP**, and **implementing CI/CD pipelines** for efficient delivery. I am always eager to learn and solve complex problems in software development.
+I am a **Python Developer** with **6+ years** of experience, having worked with top companies such as **Bnymellon, State of Florida, Prolifics,PG&E, and Relaible Soft Technologies**. I'm expertise in backend development, **API design, cloud computing, and DevOps**. I specialize in building scalable applications using **Python frameworks like Django and Flask**, deploying applications on **AWS & GCP**, and **implementing CI/CD pipelines** for efficient delivery. I am always eager to learn and solve complex problems in software development.
 
 **.
 
@@ -77,20 +77,68 @@ Results-driven **Python Developer** with a strong background in **cloud migratio
 - **Tools**: GitHub, Bitbucket, Selenium, PyTest, Jira, Vagrant  
 - **Operating Systems**: Linux (Ubuntu, CentOS, RHEL), Windows Server  
 
-### 🌟 About Me  
-Enthusiastic about **building robust cloud-native applications, optimizing workflows, and enhancing automation**. I thrive in dynamic environments where I can apply my expertise in **Python, cloud computing, and DevOps** to drive efficiency and innovation.  
+### **Client: Prolifics**  
+**Role: Python Developer** | *October 2021 – April 2023*  
 
-🚀 **Always eager to explore and implement cutting-edge technologies!**  
+- Developed multi-threaded and concurrent applications for **batch job scheduling**.  
+- Designed and built **full-stack web applications** using **Django, JavaScript, HTML5, and CSS3**.  
+- Automated **RabbitMQ cluster installations and configuration** with Python/Bash.  
+- Wrote Python scripts to parse **XML documents** and store data in **MySQL**.  
+- Developed automation frameworks using **Python and Shell scripting**.  
+- Rewrote existing **Java and C++ applications** in Python.  
+- Worked with **SQL queries, triggers, functions, and packages** to manage large datasets.  
+- Managed version control using **Git and Team Foundation Server (TFS)**.  
+- Designed and optimized **Flex UI components** and developed applications with **ActionScript 3.0**.  
 
-### **Berkshire Hathaway | Java Developer | Jan 2022 – June 2023**  
-- Designed and built **REST APIs** for enterprise applications.
-- Optimized **SQL queries** for faster data retrieval.
-- Implemented **CI/CD pipelines** using Jenkins and Docker.
 
-### **DXC Technology | Software Developer | Mar 2020 – Dec 2021**  
-- Developed and optimized **Spring Boot** applications.
-- Designed and maintained **MongoDB** and **MySQL** databases.
-- Worked in an **Agile environment** to deliver high-quality software.
+### 🔹 Tech Stack  
+
+- **Languages**: Python, C++, Bash, JavaScript, SQL  
+- **Frameworks**: Django, Flask, Angular, React  
+- **Cloud & DevOps**: AWS, GCP, Kubernetes, Docker, Jenkins, CI/CD  
+- **Databases**: MySQL, MongoDB, PostgreSQL, SQL Server  
+- **Tools**: GitHub, Bitbucket, Selenium, PyTest, Jira, Vagrant  
+- **Operating Systems**: Linux (Ubuntu, CentOS, RHEL), Windows Server  
+
+### **Client: PG&E**  
+**Role: Python Developer** | *May 2020 – September 2021*  
+
+- Developed web applications using **Django and Flask**, implementing the **MVC architecture**.  
+- Created and managed **JSON-based data pipelines** for testing and content updates.  
+- Automated **file processing and database updates** using Python scripts.  
+- Integrated **Python OpenStack APIs** for cloud-based data management.  
+- Designed and developed **Django Forms** to collect and store user data.  
+- Worked with **RESTful Web Services** to fetch and update data.  
+- Developed data visualization tools using **Matplotlib** for business reporting.  
+- Optimized **MySQL database operations** with Python connectors and queries.  
+- Implemented **front-end UIs** using **HTML, CSS, JavaScript, Bootstrap, and jQuery**.  
+- Automated repetitive tasks with **Python and Shell scripting**.  
+- Utilized **Pandas API** for time-series and tabular data analysis.  
+
+
+### **Reliable Soft Technologies Pvt Ltd, India**  
+**Role: Jr. Python Developer** | *January 2019 – April 2020*  
+
+- Reviewed business requirements and participated in **end-to-end development**.  
+- Designed interactive **web pages using HTML, JavaScript, jQuery, and Bootstrap**.  
+- Developed **RESTful APIs** for integration with third-party platforms.  
+- Implemented **CRUD operations** using Active Record and Django models.  
+- Automated **data import/export** in **CSV and Excel** using Python scripts.  
+- Developed test cases using **JUnit, Selenium, and Rational Functional Tester**.  
+- Utilized **BeautifulSoup** for web scraping and **Twitter API** for data retrieval.  
+- Managed large datasets with **Pandas and SQL databases**.  
+- Deployed applications on **Heroku** using **Git** version control.  
+- Enhanced Android applications using **Java and Android SDK (versions 1.5 - 7.0)**.  
+
+
+### 🔹 Tech Stack  
+
+- **Languages**: Python, Java, JavaScript, SQL, Shell Scripting  
+- **Frameworks**: Django, Flask, Angular, Bootstrap  
+- **Cloud & DevOps**: AWS, OpenStack, Jenkins, Heroku, CI/CD  
+- **Databases**: MySQL, MSSQL, PostgreSQL  
+- **Tools**: Git, Bitbucket, Selenium, Pandas, Matplotlib  
+- **Operating Systems**: Linux, Windows, Android  
 
 ## 🎓 Education  
 🎓 **Master of Science in Computer Information Science**  
