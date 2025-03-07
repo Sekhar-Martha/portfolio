@@ -7,7 +7,7 @@
 📞 **Phone:** 4075088011  
 
 ## Download Resume  
- [Download Resume](https://github.com/Sekhar-Martha/portfolio/blob/main/Sekhar%20Resume.docx)
+ [Download Resume](https://github.com/Sekhar-Martha/portfolio/blob/main/Sekhar_Resume.docx)
 
 ##  About Me  
 I am a **Python Developer** with **6+ years** of experience, having worked with top companies such as **Bnymellon, State of Florida, Prolifics,PG&E, and Relaible Soft Technologies**. I'm expertise in backend development, **API design, cloud computing, and DevOps**. I specialize in building scalable applications using **Python frameworks like Django and Flask**, deploying applications on **AWS & GCP**, and **implementing CI/CD pipelines** for efficient delivery. I am always eager to learn and solve complex problems in software development.
