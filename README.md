@@ -2,15 +2,15 @@
 # Sekhar Martha
 
 ## Python Developer  
-**Location:** Sanford, FL  
-📧 **Email:** sekharmartha18@gmail.com  
+**Location:** Orlando, FL  
+📧 **Email:** martha.sekhar765@gmail.com  
 📞 **Phone:** 4075088011  
 
 ## Download Resume  
  [Download Resume](https://github.com/Sekhar-Martha/portfolio/blob/main/Sekhar_Resume.docx)
 
 ##  About Me  
-I am a **Python Developer** with **6+ years** of experience, having worked with top companies such as **Bnymellon, State of Florida, Prolifics,PG&E, and Relaible Soft Technologies**. I'm expertise in backend development, **API design, cloud computing, and DevOps**. I specialize in building scalable applications using **Python frameworks like Django and Flask**, deploying applications on **AWS & GCP**, and **implementing CI/CD pipelines** for efficient delivery. I am always eager to learn and solve complex problems in software development.
+I am a **Python Developer** with **6+ years** of experience, having worked with top companies such as **Bnymellon, Rubrik, HCLTech,Aadya Informatics**. I'm expertise in backend development, **API design, cloud computing, and DevOps**. I specialize in building scalable applications using **Python frameworks like Django and Flask**, deploying applications on **AWS & GCP**, and **implementing CI/CD pipelines** for efficient delivery. I am always eager to learn and solve complex problems in software development.
 
 **.
 
@@ -20,7 +20,9 @@ I am a **Python Developer** with **6+ years** of experience, having worked with 
 - **Languages:** Python, Bash Shell Scripting, Java, C, C++, Perl, Ruby, HTML, PowerShell  
 - **Frameworks & Libraries:** Django, Flask, Jinja2, FastAPI, Pandas, NumPy  
 - **Databases:** MongoDB, SQL Server, Oracle, PostgreSQL  
-- **Cloud & DevOps:** Google Cloud Platform (GCP), Amazon Web Services (AWS), Kubernetes (K8s), Docker, Jenkins, CI/CD Pipelines, Terraform  
+- **Cloud & DevOps:** Google Cloud Platform (GCP), Amazon Web Services (AWS), Kubernetes (K8s), Docker, Jenkins, CI/CD Pipelines, Terraform - **AI/ML & Data:** LangChain, LangGraph, LLMs, RAG, Vector Databases, Semantic Search, Pandas, Matplotl
+- ![Uploading image.png…]()
+
 - **Web Technologies:** HTML5, CSS3, JavaScript, React.js, Angular.js, jQuery, REST & SOAP APIs  
 - **Bug Tracking Tools:** JIRA, Remedy, HP Quality Center  
 - **Web & Application Servers:** Apache Tomcat, Nginx, JBOSS, WebSphere, WebLogic  
@@ -53,103 +55,234 @@ Currently working at **BNY Mellon** on migrating microservices to **Google Cloud
 
 ### ## 🚀 Professional Summary  
 
-### Client: **State of Florida**  
-### Role: **Python Developer** | **June 2023 – August 2024**  
-
-Results-driven **Python Developer** with a strong background in **cloud migration, full-stack development, and DevOps automation**. Experienced in building scalable web applications, optimizing backend services, and implementing CI/CD pipelines for seamless deployments. Passionate about delivering high-performance solutions with a focus on automation, efficiency, and modern cloud infrastructure.  
-
-### 🔹 Key Contributions:  
-- **Python Development**: Designed and optimized backend web services using **Python, Django, and Flask**. Developed reusable Python modules and scripts for automation.  
-- **Cloud & DevOps**: Extensive experience with **AWS, Google Cloud, Kubernetes**, and deploying applications in **Apache web servers**.  
-- **Version Control & CI/CD**: Managed source code with **Git, GitHub, Bitbucket**, and automated deployments using **Jenkins, Docker, Nexus, and Maven**.  
-- **Full Stack Development**: Built dynamic, responsive web applications using **HTML5, CSS3, JavaScript, Angular, AJAX, jQuery, and Django**.  
-- **Database Management**: Developed and optimized database queries using **MySQL, MongoDB, and SQL Server**.  
-- **Automation & Scripting**: Implemented **Bash, Shell scripting, and Python automation** for deployment and testing.  
-- **Testing & Debugging**: Experience in **Selenium, PyUnit, and JUnit** for functional and regression testing.  
-- **Microservices & APIs**: Developed RESTful APIs and optimized JSON data exchanges for frontend integration.  
-- **Big Data & Reporting**: Worked with **numpy, pandas, KML**, and created reports using **XIRT, XLWT, ReportLab** and **Tableau**.  
-
-### 🔹 Tech Stack:  
-- **Languages**: Python, C++, Bash, JavaScript, SQL  
-- **Frameworks**: Django, Flask, Angular, React  
-- **Cloud & DevOps**: AWS, GCP, Kubernetes, Docker, Jenkins, Nexus, CI/CD  
-- **Databases**: MySQL, MongoDB, PostgreSQL  
-- **Tools**: GitHub, Bitbucket, Selenium, PyTest, Jira, Vagrant  
-- **Operating Systems**: Linux (Ubuntu, CentOS, RHEL), Windows Server  
-
-### **Client: Prolifics**  
-**Role: Python Developer** | *October 2021 – April 2023*  
-
-- Developed multi-threaded and concurrent applications for **batch job scheduling**.  
-- Designed and built **full-stack web applications** using **Django, JavaScript, HTML5, and CSS3**.  
-- Automated **RabbitMQ cluster installations and configuration** with Python/Bash.  
-- Wrote Python scripts to parse **XML documents** and store data in **MySQL**.  
-- Developed automation frameworks using **Python and Shell scripting**.  
-- Rewrote existing **Java and C++ applications** in Python.  
-- Worked with **SQL queries, triggers, functions, and packages** to manage large datasets.  
-- Managed version control using **Git and Team Foundation Server (TFS)**.  
-- Designed and optimized **Flex UI components** and developed applications with **ActionScript 3.0**.  
+### Client: BNY Mellon
+Role: Python Developer | September 2024 – Present
 
 
-### 🔹 Tech Stack  
-
-- **Languages**: Python, C++, Bash, JavaScript, SQL  
-- **Frameworks**: Django, Flask, Angular, React  
-- **Cloud & DevOps**: AWS, GCP, Kubernetes, Docker, Jenkins, CI/CD  
-- **Databases**: MySQL, MongoDB, PostgreSQL, SQL Server  
-- **Tools**: GitHub, Bitbucket, Selenium, PyTest, Jira, Vagrant  
-- **Operating Systems**: Linux (Ubuntu, CentOS, RHEL), Windows Server  
-
-### **Client: PG&E**  
-**Role: Python Developer** | *May 2020 – September 2021*  
-
-- Developed web applications using **Django and Flask**, implementing the **MVC architecture**.  
-- Created and managed **JSON-based data pipelines** for testing and content updates.  
-- Automated **file processing and database updates** using Python scripts.  
-- Integrated **Python OpenStack APIs** for cloud-based data management.  
-- Designed and developed **Django Forms** to collect and store user data.  
-- Worked with **RESTful Web Services** to fetch and update data.  
-- Developed data visualization tools using **Matplotlib** for business reporting.  
-- Optimized **MySQL database operations** with Python connectors and queries.  
-- Implemented **front-end UIs** using **HTML, CSS, JavaScript, Bootstrap, and jQuery**.  
-- Automated repetitive tasks with **Python and Shell scripting**.  
-- Utilized **Pandas API** for time-series and tabular data analysis.  
+Designed and developed scalable backend services using Python (FastAPI/Flask) for enterprise financial and risk management systems.
 
 
-### **Reliable Soft Technologies Pvt Ltd, India**  
-**Role: Jr. Python Developer** | *January 2019 – April 2020*  
-
-- Reviewed business requirements and participated in **end-to-end development**.  
-- Designed interactive **web pages using HTML, JavaScript, jQuery, and Bootstrap**.  
-- Developed **RESTful APIs** for integration with third-party platforms.  
-- Implemented **CRUD operations** using Active Record and Django models.  
-- Automated **data import/export** in **CSV and Excel** using Python scripts.  
-- Developed test cases using **JUnit, Selenium, and Rational Functional Tester**.  
-- Utilized **BeautifulSoup** for web scraping and **Twitter API** for data retrieval.  
-- Managed large datasets with **Pandas and SQL databases**.  
-- Deployed applications on **Heroku** using **Git** version control.  
-- Enhanced Android applications using **Java and Android SDK (versions 1.5 - 7.0)**.  
+Built and optimized ETL pipelines using Snowflake for processing large-scale financial datasets.
 
 
-### 🔹 Tech Stack  
+Developed and maintained RESTful APIs for analytics and downstream integrations.
 
-- **Languages**: Python, Java, JavaScript, SQL, Shell Scripting  
-- **Frameworks**: Django, Flask, Angular, Bootstrap  
-- **Cloud & DevOps**: AWS, OpenStack, Jenkins, Heroku, CI/CD  
-- **Databases**: MySQL, MSSQL, PostgreSQL  
-- **Tools**: Git, Bitbucket, Selenium, Pandas, Matplotlib  
-- **Operating Systems**: Linux, Windows, Android  
 
-## 🎓 Education  
-🎓 **Master of Science in Computer Information Science**  
-Southern Arkansas University, Magnolia,AR  
+Used Dataiku for workflow orchestration, data transformation, and pipeline automation.
 
-🎓 **Bachelor of Technology in Information Technology**  
-Bapatla Engineering College  
-  
 
-## Connect With Me  
--  [GitHub](https://github.com/Sekhar-Martha)  
--  [LinkedIn](https://www.linkedin.com/in/Sekhar-Martha/)  
--  [Medium](https://medium.com/@sekharmartha615)  
-- **Email:** sekharmartha18@gmail.com  
+Implemented RAG-based AI workflows using LangChain, vector databases, and LLM integrations.
+
+
+Developed cloud-native microservices and deployed them on GCP Cloud Run and GKE.
+
+
+Built asynchronous workflows using Pub/Sub and Cloud Functions.
+
+
+Automated infrastructure provisioning using Terraform and maintained CI/CD pipelines with Jenkins and GitHub Actions.
+
+
+Monitored applications using Stackdriver and Splunk, improving production reliability and observability.
+
+
+Optimized SQL queries and Snowflake workloads to improve performance and reduce processing latency.
+
+
+
+🔹 Tech Stack
+
+
+Languages: Python, SQL, JavaScript
+
+
+Frameworks: FastAPI, Flask, React.js
+
+
+AI/ML: LangChain, LangGraph, RAG, FAISS, LLMs
+
+
+Cloud & DevOps: GCP, Cloud Run, GKE, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions
+
+
+Databases: Snowflake, PostgreSQL, MongoDB
+
+
+Tools: Dataiku, Splunk, Stackdriver, Git, Jira
+
+
+Messaging: Pub/Sub, Kafka
+
+
+
+### Client: Rubrik
+Role: Python Developer | January 2024 – August 2024
+
+
+Developed and deployed REST-based microservices using Python (Django/Flask) and AWS services.
+
+
+Built scalable Snowflake-based ETL pipelines for enterprise analytics workloads.
+
+
+Used Dataiku for workflow orchestration and data integration processes.
+
+
+Designed and implemented RAG-powered search solutions using vector databases and MongoDB.
+
+
+Integrated React.js frontend components with backend APIs for customer-facing applications.
+
+
+Improved application performance using caching, indexing, and optimized SQL queries.
+
+
+Developed backend automation workflows using TensorFlow and PyTorch integrations.
+
+
+Implemented CI/CD pipelines and containerized deployments using Docker and Kubernetes.
+
+
+Participated in TDD practices, peer code reviews, and production deployments.
+
+
+
+🔹 Tech Stack
+
+
+Languages: Python, SQL, JavaScript
+
+
+Frameworks: Django, Flask, React.js
+
+
+AI/ML: TensorFlow, PyTorch, LangChain, Vector Databases
+
+
+Cloud & DevOps: AWS, Docker, Kubernetes, Jenkins, CI/CD
+
+
+Databases: Snowflake, MongoDB, PostgreSQL
+
+
+Tools: Dataiku, GitHub, PyTest, Jira
+
+
+Messaging: Kafka, RabbitMQ
+
+
+
+### Client: HCL Technologies
+Role: Python Developer | October 2021 – April 2023
+
+
+Developed scalable microservices using Python (Django/FastAPI) across AWS and GCP environments.
+
+
+Built and optimized Snowflake-based data pipelines for analytics and reporting systems.
+
+
+Used Dataiku and similar workflow tools for ETL orchestration and data transformation.
+
+
+Implemented event-driven architectures using Kafka, RabbitMQ, and ActiveMQ.
+
+
+Developed full-stack applications using Vue.js and FastAPI.
+
+
+Migrated legacy Java and C++ applications into Python-based microservices.
+
+
+Automated operational processes using Python and Shell scripting.
+
+
+Integrated TensorFlow and PyTorch for backend AI/ML processing workflows.
+
+
+Deployed containerized applications using Docker and Kubernetes.
+
+
+Processed and analyzed large datasets using Pandas and NumPy.
+
+
+
+🔹 Tech Stack
+
+
+Languages: Python, Java, C++, Bash, SQL
+
+
+Frameworks: Django, FastAPI, Vue.js
+
+
+AI/ML: TensorFlow, PyTorch, Pandas, NumPy
+
+
+Cloud & DevOps: AWS, GCP, Docker, Kubernetes, Jenkins
+
+
+Databases: Snowflake, MySQL, PostgreSQL, MongoDB
+
+
+Tools: Dataiku, Git, Jira, Selenium
+
+
+Messaging: Kafka, RabbitMQ, ActiveMQ
+
+
+
+### Client: Aadya Informatics
+Role: Jr. Python Developer | May 2020 – September 2021
+
+
+Developed web applications using Django and Flask frameworks.
+
+
+Built and integrated RESTful APIs for JSON-based data exchange.
+
+
+Automated file processing, reporting, and database update workflows using Python scripts.
+
+
+Designed and optimized SQL queries and backend business logic for improved performance.
+
+
+Containerized applications using Docker and deployed services on GCP Cloud Run.
+
+
+Implemented automated testing using PyTest for deployment reliability.
+
+
+Developed visualization and reporting modules using Matplotlib.
+
+
+Worked with OpenStack APIs and cloud-based environments for infrastructure support.
+
+
+Troubleshot and resolved production issues in Agile development environments.
+
+
+
+🔹 Tech Stack
+
+
+Languages: Python, SQL, JavaScript
+
+
+Frameworks: Django, Flask
+
+
+Cloud & DevOps: GCP, Docker, Cloud Run
+
+
+Databases: MySQL, SQLite
+
+
+Tools: Git, PyTest, Jira, OpenStack
+
+
+Libraries: Pandas, Matplotlib
+
+
+- **Email:** martha.sekhar765@gmail.com  
